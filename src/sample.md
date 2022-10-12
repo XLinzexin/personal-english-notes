@@ -8,6 +8,7 @@
 他正在拿着笔
 He is holding a pen
 ```
+
 ``` 
 // error，语义不完整
 他正在拿着
@@ -41,14 +42,12 @@ He is holding
     I give him a pen
     ```
 
-    
 ### 不及物动词
 ``` 
 // right
 他正在跳舞
 He is dancing
 ```
-
 
 ## 系动词
 主语 + 系动词 + 表语
@@ -66,7 +65,7 @@ He looks happy
 # 时态
 - 一般现在时
     ```
-    (do/ dose/ am/ are/ is)
+    (do/ does/ am/ are/ is)
     ```
     被动
     ```
