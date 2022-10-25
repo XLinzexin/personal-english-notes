@@ -11,7 +11,7 @@
 
 ## 引导词
 
-- that 陈述句
+- that 陈述句 （宾语从句可省略that）
 - It 形式主语 （联系上下文，主要用于替代that引导的主语从句）
 - whether/if 一般疑问句
 - when/where/why/how/who/whom/what/which/whose 特殊疑问句
@@ -57,13 +57,30 @@
 - where
 - why
     - 特殊疑问句：Why did dinosaurs become extinct?
-    - 主语从句：Why dinosaurs became extinct is still a mystery
+    - 主语从句：Why dinosaurs became extinct is still a mystery.
+    - 宾语从句：We don't know why dinosaurs became extinct.
+    - 表语从句: The topic of this lecture is why dinosaurs became extinct.
+    - 同位语从句: /
 - how
+    - 特殊疑问句: How does this company remain profitable?
+    - 名词性从句: I don't know how this company remains profitable.
+    - 特殊疑问句: How long should I stay here?
+    - 名词性从句: How long I should stay here depends on you.
 
 #### 连接代词
 在从句中作主，宾，表
 - who
+    - 特殊疑问句: 
+    - 名词性从句: 
 - whom
+    - 特殊疑问句: 
+    - 名词性从句: 
 - what
+    - 特殊疑问句: What can be done to improve work efficiency?
+    - 名词性从句: I don't know what can be done to improve work efficiency.
 - which + n.
+    - 特殊疑问句: 
+    - 名词性从句: 
 - whose + n.
+    - 特殊疑问句: 
+    - 名词性从句: 
