@@ -1,0 +1,99 @@
+- prefix
+    - 外/出：e/ex/ef  —— export 出口
+    - 内/进：in/im —— inject 注射
+    - 前
+        - 动态-向前：pro——progress 进步
+        - 静态-在前面/预先：pre——prevent 预防
+    - 回/重新/再次：re——return 返回
+    - 聚集（一起/共同）：co/con/com/col
+    - 分散（分开）：di/dis/dif——divorce 离婚
+    - 上/超过：super/over/sur——surrealism 超现实主义
+    - 下/不足：under/de/sub/sup——decrease 下降
+    - 转移/转变：trans——transfer
+    - 相互之间：inter——internet
+    - a+双写辅音字母（强调但无实际意义）：accompany
+    - 否定前缀：un/in/im/dis/ab/il
+    - 相反：ob/op——object v. 反对
+- root 
+    - pose（摆放/存在感）
+        - expose v. 暴露
+         - 同义词 reveal/disclose/uncover
+        - compose v. 组成/创造/创作
+            - composition n. 作文/品/曲
+            - composite adj. 复合的/合成的
+        - propose v. 求婚/提名/提议
+        - dispose v. 扔掉/处理/安排 = discard
+            - 例句：Man proposes， God disposes——尽人事，听天命
+        - oppose v. 反对
+            - = object v. 反对
+            - 引申词 opponent n. 敌人/对手
+        - depose v. 废除/罢免
+            - 引申词 deposit n. 沉淀物/定金
+    - form
+    - norm
+    - vis
+    - leg
+    - ceed
+    - duce
+    - claim
+    - vers(t)（转）
+        - reverse v. 扭转/颠倒——reverse the trend 扭转趋势
+        - avert v.转移（注意力）；避免——alert n.警惕/提醒
+        - convert v.
+    - vade
+    - gress
+    - vent
+    - ject
+    - lect
+    - spect
+    - press
+    - sense
+    - valu
+    - sim
+    - tain
+    - serve
+    - view
+    - tract
+    - nov
+    - radi（树木的根，形状上是发散的，意义上是树或者事物的根本）
+        - radical adj. 根本的/彻底的
+        - eradicate v. 根除
+        - radiate v.辐射/发散；使显现
+        - radiant adj. 辐射的；容光焕发的
+        - radio n. 收音机
+        - radium n. 镭
+        - radioactive adj. 放射性的
+    - rupt
+    - dict
+    - fer
+    - clude
+    - flu
+    - scribe
+    - dens
+
+- postfix
+    - 动词
+        - ate（90%）
+        - ize
+        - ify
+        - ish
+    - 形容词
+        - ent
+        - ful
+        - ous
+        - al
+        - ive
+        - ible
+        - able
+        - nat
+    - 名词后缀
+        - lon
+        - tion
+        - ation
+        - ness
+        - ity
+        - ality
+        - ment
+        - ence
+        - ance
+        - ism
