@@ -14,6 +14,8 @@
     - a+双写辅音字母（强调但无实际意义）：accompany
     - 否定前缀：un/in/im/dis/ab/il
     - 相反：ob/op——object v. 反对
+    - 单一/统一： uni 
+    - 每一/每个：per
 - root 
     - pose（摆放/存在感）
         - expose v. 暴露
@@ -30,30 +32,109 @@
         - depose v. 废除/罢免
             - 引申词 deposit n. 沉淀物/定金
     - form
+        - conform —— A conform with B = A accord with B = A is consistent with B
+        - uniform
+        - reform
+        - transform
+        - deform
+        - formal
+        - multiform
+        - formula
+        - formulate
     - norm
     - vis
     - leg
     - ceed
-    - duce
-    - claim
+    - duce（引）
+        - produce 
+        - induce
+            - tempt
+        - seduce
+        - deduce = conclude = learn from = infer
+        - educe
+        - traduce
+        - introduce
+        - reduce
+
+    - claim（喊）
+        - claim
+            - affirm
+            - allege
+            - assert
+        - proclaim
+            - announce
+            - pronounce
+            - declare
+        - reclaim
+        - acclaim
+            - apploud
+            - praise
+            - commend
+            - blame
+            - criticize
+            - denounce
+            - reproach
+        - exclaim
+            - scream
+            - shriek
     - vers(t)（转）
         - reverse v. 扭转/颠倒——reverse the trend 扭转趋势
         - avert v.转移（注意力）；避免——alert n.警惕/提醒
-        - convert v.
-    - vade
+        - convert v.转变/换算/改变信仰 = transform = shift
+        - divert v.转移/改道——diverse 多样性的
+        - introvert n. 内向的人
+        - extrovert n. 外向的人
+        - anniversary n.周年纪念 
+        - controversy n.争论/争吵/争议
+    - vade（强调性的走）
+        - invade 
+        - pervade
+            - permeate
+        - evade
+            - escape
     - gress
+        - congress = conference = convention
+        - regress —— recede
+        - aggressive 
+        - progress
+        - transgress
     - vent
     - ject
     - lect
     - spect
     - press
-    - sense
+        - compress v.压缩——condense v.浓缩
+        - depress v.使抑郁/使萧条/低迷——depression n.抑郁/萧条
+        - suppress v.镇压/抑制/控制
+        - impress v.使印象深刻——impressive 令人印象深刻的
+        - express v.表达 adj.特快的 n.快递
+    - sens(t) （感觉）
+        - sense
+            - sense of justice
+        - presentiment
+        - consent
+            - grant
+            - comply with
+        - resent
+            - hatred
+        - sensible
+            - rational
+        - sensitive
+            - insensitive
+        - sentiment
+            - sentimental
     - valu
     - sim
     - tain
     - serve
     - view
-    - tract
+    - tract（拉/抽）
+        - extract
+        - contract 
+        - distract
+        - abstract
+        - subtract
+        - attract
     - nov
     - radi（树木的根，形状上是发散的，意义上是树或者事物的根本）
         - radical adj. 根本的/彻底的
@@ -70,6 +151,18 @@
     - flu
     - scribe
     - dens
+    - spire（气）
+        - inspire 
+            - encourage
+            - motivate
+        - expire
+            - perish
+            - disintegrate
+        - conspire
+            - cooperate
+            - collaborate
+        - aspire
+        - spirit
 
 - postfix
     - 动词
