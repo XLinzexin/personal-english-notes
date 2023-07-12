@@ -99,7 +99,23 @@
         - progress
         - transgress
     - vent
-    - ject
+    - nounce（说）
+        - announce
+        - denounce
+            - reproach
+            - condemn
+        - pronounce
+            - pronounced
+    - ject（射）
+        - inject
+        - eject
+            - expel
+            - dislodge
+        - project
+        - reject
+            - decline
+        - object
+        - subject
     - lect
     - spect
     - press
@@ -147,8 +163,21 @@
     - rupt
     - dict
     - fer
-    - clude
-    - flu
+    - clude（关）
+        - include
+        - exclude
+            - exclusive
+        - preclude
+        - conclude
+            - conclusion
+    - flu（流）
+        - flu
+        - fluent
+        - affluent 
+        - superfluous
+        - fluctuate
+            - fluctuation
+            - swing
     - scribe
     - dens
     - spire（气）
